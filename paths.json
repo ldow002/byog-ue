@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ld-byog/:/",
-    "/content/ld-byog/configuration:/.helix/config.json",
-    "/content/ld-byog/metadata:/metadata.json"
+    "/content/eds-byog-poc/:/",
+    "/content/eds-byog-poc/configuration:/.helix/config.json",
+    "/content/eds-byog-poc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ld-byog/"
+    "/content/eds-byog-poc/"
   ]
 }

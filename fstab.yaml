@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p9606-e71941.adobeaemcloud.com/bin/franklin.delivery/ldow002/byog-ue/main"
+    url: "https://author-p9606-e71941.adobeaemcloud.com/bin/franklin.delivery/lochdow0002/byog-ue/main"
     type: "markup"
     suffix: ".html"
